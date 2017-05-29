@@ -1,0 +1,14 @@
+html {
+	background-color: cyan;
+	font-family: Ubuntu;
+}
+
+p.footer {
+	font-size: 14px;
+	color: black;
+}
+
+h1.heading {
+	font-size: 36px;
+	color: black;
+}

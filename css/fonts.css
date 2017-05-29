@@ -1,0 +1,106 @@
+/* Font Input */
+
+
+/* The fonts are Quantico, Ubuntu, and Play */
+
+
+/* You can get them here: https://www.google.com/fonts#UsePlace:use/Collection:Quantico|Ubuntu|Play */
+
+
+/* Yes, I have a copy of the txt files for the licenses, so don't sue. */
+
+
+/* There are two files, one in /fonts/OFL.txt and one in /fonts/UFL.txt */
+
+
+/*Ubuntu*/
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url("/fonts/Ubuntu-Regular.ttf");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url("/fonts/Ubuntu-Bold.ttf");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url("/fonts/Ubuntu-Italic.ttf");
+	font-weight: 400;
+	font-style: italic, oblique;
+}
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url("/fonts/Ubuntu-BoldItalic.ttf");
+	font-weight: 700;
+	font-style: italic, oblique;
+}
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url("/fonts/Ubuntu-Light.ttf");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Ubuntu";
+	src: url("/fonts/Ubuntu-LightItalic.ttf");
+	font-weight: 300;
+	font-style: italic, oblique;
+}
+
+
+/*Quantico*/
+
+@font-face {
+	font-family: "Quantico";
+	src: url("/fonts/Quantico-Regular.ttf");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Quantico";
+	src: url("/fonts/Quantico-Italic.ttf");
+	font-weight: 400;
+	font-style: italic, oblique;
+}
+
+@font-face {
+	font-family: "Quantico";
+	src: url("/fonts/Quantico-Bold.ttf");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Quantico";
+	src: url("/fonts/Quantico-BoldItalic.ttf");
+	font-weight: 700;
+	font-style: italic, oblique;
+}
+
+
+/*Play*/
+
+@font-face {
+	font-family: "Play";
+	src: url("/fonts/Play-Regular.ttf");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Play";
+	src: url("/fonts/Play-Bold.ttf");
+	font-weight: 700;
+	font-style: normal;
+}
